@@ -76,8 +76,8 @@ This project investigates mental health issues in the technology workplace using
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-cd exploratory_data_analysis_projects_amit_kharche/EDA_Mental_Health_Data_amit_kharche
+git clone https://github.com/amitkharche/EDA_Mental_Health_Data_amit_kharche.git
+cd EDA_Mental_Health_Data_amit_kharche
 ````
 
 2. **(Optional) Create and activate a virtual environment:**
